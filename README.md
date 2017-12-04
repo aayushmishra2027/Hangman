@@ -1,2 +1,2 @@
 # Hangman-Game
-Homework assignment 3
+Space Hangman
